@@ -7,11 +7,11 @@
 ## ✨ Why MindMantra?
 
 🎯 **Smart & Intuitive** - AI-powered emotion analysis that understands your feelings  
-🔒 **Privacy First** - Complete local-only mode for maximum privacy  
+🔒 **Privacy First** - Anonymous authentication for maximum privacy  
 💬 **24/7 Support** - Intelligent chatbot powered by Google Gemini AI  
 📊 **Visual Insights** - Beautiful charts showing your emotional journey  
 🚨 **Crisis Care** - Immediate help when you need it most  
-⚡ **Always Available** - Works offline with seamless cloud sync
+⚡ **Always Available** - Real-time cloud sync across devices
 
 ## 🚀 Features That Make a Difference
 
@@ -23,7 +23,7 @@
 | 📈 **Mood Dashboard** | Visual charts & insights | Track your progress |
 | 🧘 **Wellness Activities** | Breathing exercises & mindfulness | Daily self-care |
 | 🆘 **Crisis Detection** | Automatic safety alerts | Immediate help when needed |
-| 🔐 **Privacy Mode** | Complete offline functionality | Your data stays yours |
+| 🔐 **Privacy Mode** | Anonymous authentication | Your data stays secure |
 
 ### 🛠️ Technical Excellence
 - ⚡ **Lightning Fast** - Optimized Flutter performance
@@ -116,11 +116,11 @@ firebase deploy --only functions
 static const String _apiKey = 'YOUR_API_KEY_HERE';
 ```
 
-### Local AI Fallback
-- Works 100% offline
-- No API key required
-- Privacy-focused keyword detection
-- Automatic fallback when Gemini unavailable
+### AI Features
+- Powered by Google Gemini AI
+- Real-time emotion analysis
+- Intelligent conversation support
+- Advanced mood insights
 </details>
 
 ## 🎯 How to Use MindMantra
@@ -130,8 +130,8 @@ static const String _apiKey = 'YOUR_API_KEY_HERE';
 📱 Open App → 🔒 Privacy Consent → 🎭 Choose Mode → 🚀 Start Journey
 ```
 
-1. **🔒 Privacy First**: Choose between cloud sync or local-only mode
-2. **🎭 Anonymous Setup**: No personal info required - just start using!
+1. **🔒 Privacy First**: Anonymous authentication keeps you secure
+2. **🎭 Quick Setup**: No personal info required - just start using!
 3. **📝 First Journal**: Write your thoughts and see AI magic happen
 4. **💬 Meet Your AI**: Chat with your supportive companion anytime
 
@@ -141,13 +141,13 @@ static const String _apiKey = 'YOUR_API_KEY_HERE';
 | 🌅 Quick mood check | 💭 Chat if needed | 📝 Journal reflection |
 | 🧘 Breathing exercise | 📊 View insights | 🌙 Wellness activity |
 
-### 🔐 Privacy Modes
+### 🔐 Privacy & Security
 
-**🌐 Cloud Mode** (Recommended)
+**🛡️ Anonymous & Secure**
 - ✅ AI-powered insights
 - ✅ Cross-device sync
 - ✅ Advanced analytics
-- ✅ Still anonymous!
+- ✅ No personal data required!
 
 ## 🧪 Testing & Quality
 
