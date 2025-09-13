@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "545549491139",
+    "project_id": "mindmantra-ee362",
+    "storage_bucket": "mindmantra-ee362.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545549491139:android:76ed75e34f75bd60fbfb76",
+        "android_client_info": {
+          "package_name": "com.example.mindmitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCieJchd7E6pxnNpXFxwuZhFk9ENHbDzps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,5 +1,5 @@
-name: myapp
-description: "A new Flutter project."
+name: mindmitra
+description: "MindMitra - AI-powered mental health companion app"
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 publish_to: 'none' # Remove this line if you wish to publish to pub.dev
@@ -31,8 +31,33 @@ dependencies:
   flutter:
     sdk: flutter
 
-  # The following adds the Cupertino Icons font to your application.
-  # Use with the CupertinoIcons class for iOS style icons.
+  # Firebase packages
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.15.3
+  cloud_firestore: ^4.13.6
+  
+  # State management
+  provider: ^6.1.1
+  
+  # HTTP and networking
+  http: ^1.1.2
+  
+  # Google Generative AI (Gemini)
+  google_generative_ai: ^0.2.2
+  
+  # UI packages
+  flutter_chat_ui: ^1.6.10
+  
+  # Animations
+  animated_widgets: ^1.1.0
+  
+  # Local storage
+  shared_preferences: ^2.2.2
+  
+  # Charts for mood dashboard
+  fl_chart: ^0.66.0
+  
+  # Icons
   cupertino_icons: ^1.0.8
 
 dev_dependencies:
